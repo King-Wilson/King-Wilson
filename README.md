@@ -1,4 +1,8 @@
-### Hi there 👋
+### - 👋 Hi There
+### - 📫 You Can Contact Me On Discord: KingWilson#9208
+### - 🌱 Im Currently Learning C And Python
+### - ⚡ Fun Fact HTML Was Invented In 1993
+### - 🎓 I Know HTML, CSS, JavaScript, Python
 
 <!--
 **King-Wilson/King-Wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
