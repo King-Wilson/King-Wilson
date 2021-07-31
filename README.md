@@ -1,5 +1,5 @@
 ### - 👋 Hi There
-### - 📫 You Can Contact Me On Discord: KingWilson#9208
+### - 📫 You Can Contact Me On Discord: KingWilson#0001
 ### - 🌱 Im Currently Learning C And Python
 ### - ⚡ Fun Fact HTML Was Invented In 1993
 ### - 🎓 I Know HTML, CSS, JavaScript, Python
